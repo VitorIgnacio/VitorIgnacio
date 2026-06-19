@@ -63,8 +63,8 @@ Além da tecnologia, também atuo como produtor musical eletrônico, unindo cria
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorIgnacio&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorIgnacio&layout=compact" />
 </p>
 
 ---
