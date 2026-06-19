@@ -71,8 +71,7 @@ Além da tecnologia, também atuo como produtor musical eletrônico, unindo cria
 
 ## 🌎 Onde me encontrar
 
-- GitHub: https://github.com/SEU_USUARIO
-- LinkedIn: SEU_LINKEDIN
+- GitHub: https://github.com/VitorIgnacio
 
 ---
 
