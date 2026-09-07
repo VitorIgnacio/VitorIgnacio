@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Vitor Ignácio 👋</h1>
+<h1 align="center">Hello, I'm Vitor Ignácio 👋</h1>
 
 <p align="center">
-  <strong>Entusiasta de Tecnologia • Desenvolvedor em Evolução • Produtor Musical</strong>
+  <strong>Technology Enthusiast • Developer in Progress • Music Producer</strong>
 </p>
 
 <p align="center">
-  Desenvolvimento de Software • Arquitetura de Sistemas • Automação • Bancos de Dados • Inteligência Artificial
+  Software Development • Systems Architecture • Automation • Databases • Artificial Intelligence
 </p>
 
 <p align="center">
@@ -16,51 +16,34 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Atualmente estou focado em desenvolver minhas habilidades na área de tecnologia através da criação de **projetos práticos e soluções que simulam cenários reais do mercado**.
+I am currently focused on developing my skills in technology through the creation of **practical projects and solutions that simulate real-world market scenarios**.
 
-Tenho interesse em **desenvolvimento de software, arquitetura de sistemas, automação, bancos de dados e inteligência artificial**, buscando sempre aprender novas tecnologias e boas práticas de desenvolvimento.
+I am interested in **software development, systems architecture, automation, databases, and artificial intelligence**, always looking to learn new technologies and development best practices.
 
-Gosto de transformar ideias em projetos funcionais, explorando diferentes tecnologias e entendendo não apenas como desenvolver uma aplicação, mas também **como estruturar, organizar e evoluir um sistema**.
+I enjoy turning ideas into functional projects, exploring different technologies and understanding not only how to develop an application, but also **how to structure, organize, and evolve a system**.
 
-Além da tecnologia, também atuo como **produtor musical eletrônico**, unindo criatividade e pensamento analítico em diferentes áreas.
+Beyond technology, I also work as an **electronic music producer**, combining creativity and analytical thinking across different areas.
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Areas of Interest
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Desenvolvimento de Software
+### 💻 Software Development
 
-Criação de projetos práticos e soluções que simulam cenários reais do mercado, buscando desenvolver aplicações completas e funcionais.
-
-</td>
-<td width="50%">
-
-### 🏗️ Arquitetura de Sistemas
-
-Interesse em arquitetura de software, organização de projetos, boas práticas de desenvolvimento e construção de sistemas bem estruturados.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Inteligência Artificial
-
-Exploração de inteligência artificial e suas aplicações no desenvolvimento de software, automação e criação de soluções.
+Creating practical projects and solutions that simulate real-world market scenarios, with a focus on developing complete and functional applications.
 
 </td>
 <td width="50%">
 
-### ⚡ Automação
+### 🏗️ Systems Architecture
 
-Criação de soluções para automatizar processos e transformar tarefas em fluxos mais eficientes.
+Interested in software architecture, project organization, development best practices, and building well-structured systems.
 
 </td>
 </tr>
@@ -68,16 +51,33 @@ Criação de soluções para automatizar processos e transformar tarefas em flux
 <tr>
 <td width="50%">
 
-### 🗄️ Bancos de Dados
+### 🤖 Artificial Intelligence
 
-Interesse em bancos de dados SQL, organização de informações, consultas e integração com aplicações.
+Exploring artificial intelligence and its applications in software development, automation, and solution building.
 
 </td>
 <td width="50%">
 
-### 🎵 Tecnologia & Música
+### ⚡ Automation
 
-União entre tecnologia, criatividade, dados e produção musical eletrônica através de projetos e experimentos.
+Creating solutions to automate processes and transform tasks into more efficient workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Databases
+
+Interested in SQL databases, data organization, queries, and application integration.
+
+</td>
+<td width="50%">
+
+### 🎵 Technology & Music
+
+Combining technology, creativity, data, and electronic music production through projects and experiments.
 
 </td>
 </tr>
@@ -85,9 +85,9 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
 
 ---
 
-## 🛠️ Tecnologias de Interesse
+## 🛠️ Technologies of Interest
 
-### ⚙️ Linguagens
+### ⚙️ Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -109,7 +109,7 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
   <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black">
 </p>
 
-### 🧰 Ferramentas & Infraestrutura
+### 🧰 Tools & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -118,45 +118,44 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
 </p>
 
-
 ---
 
-## 🎯 Atualmente Aprendendo
+## 🎯 Currently Learning
 
-Estou constantemente buscando ampliar minhas habilidades e aprofundar meus conhecimentos em:
+I am constantly looking to expand my skills and deepen my knowledge in:
 
-* Desenvolvimento Full Stack
-* Arquitetura de Software
-* Banco de Dados SQL
+* Full Stack Development
+* Software Architecture
+* SQL Databases
 * Docker
-* APIs REST
-* Segurança de Aplicações
-* Inteligência Artificial
-* **Linguagem C**
+* REST APIs
+* Application Security
+* Artificial Intelligence
+* **C Programming Language**
 
 ---
 
-## 📈 Objetivos
+## 📈 Goals
 
-* Construir projetos completos e funcionais
-* Aprimorar minhas habilidades em backend e frontend
-* Aprender boas práticas de arquitetura e segurança
-* Contribuir para projetos open source
-* Transformar ideias em soluções reais
-* Evoluir constantemente como desenvolvedor de software
-* Atuar profissionalmente com desenvolvimento de software
-
----
-
-## 🌱 Próximos Passos
-
-Continuar explorando novas tecnologias e aprofundando meus conhecimentos em:
-
-**Desenvolvimento Full Stack • Arquitetura de Software • Inteligência Artificial • Automação • Segurança • Sistemas • Computação de Baixo Nível**
+* Build complete and functional projects
+* Improve my backend and frontend skills
+* Learn architecture and security best practices
+* Contribute to open source projects
+* Turn ideas into real-world solutions
+* Continuously evolve as a software developer
+* Work professionally in software development
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌱 Next Steps
+
+Continue exploring new technologies and deepening my knowledge in:
+
+**Full Stack Development • Software Architecture • Artificial Intelligence • Automation • Security • Systems • Low-Level Computing**
+
+---
+
+## 🌎 Where to Find Me
 
 <p align="center">
   <a href="https://github.com/VitorIgnacio">
@@ -168,6 +167,6 @@ Continuar explorando novas tecnologias e aprofundando meus conhecimentos em:
 
 <p align="center">
 
-<strong>Sempre aprendendo, construindo e evoluindo.</strong>
+<strong>Always learning, building, and evolving.</strong>
 
 </p>
