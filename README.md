@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de Software • Arquitetura de Sistemas • Automação • Inteligência Artificial
+  Desenvolvimento de Software • Arquitetura de Sistemas • Automação • Bancos de Dados • Inteligência Artificial
 </p>
 
 <p align="center">
@@ -36,14 +36,14 @@ Além da tecnologia, também atuo como **produtor musical eletrônico**, unindo 
 
 ### 💻 Desenvolvimento de Software
 
-Projetos práticos, aplicações web, backend, frontend e APIs, buscando desenvolver soluções completas e funcionais.
+Criação de projetos práticos e soluções que simulam cenários reais do mercado, buscando desenvolver aplicações completas e funcionais.
 
 </td>
 <td width="50%">
 
 ### 🏗️ Arquitetura de Sistemas
 
-Organização de aplicações, boas práticas de desenvolvimento, estrutura de projetos e construção de sistemas escaláveis.
+Interesse em arquitetura de software, organização de projetos, boas práticas de desenvolvimento e construção de sistemas bem estruturados.
 
 </td>
 </tr>
@@ -53,14 +53,14 @@ Organização de aplicações, boas práticas de desenvolvimento, estrutura de p
 
 ### 🤖 Inteligência Artificial
 
-Exploração de inteligência artificial e suas aplicações no desenvolvimento de soluções e automações.
+Exploração de inteligência artificial e suas aplicações no desenvolvimento de software, automação e criação de soluções.
 
 </td>
 <td width="50%">
 
 ### ⚡ Automação
 
-Criação de soluções para automatizar processos e transformar tarefas complexas em fluxos mais eficientes.
+Criação de soluções para automatizar processos e transformar tarefas em fluxos mais eficientes.
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ Criação de soluções para automatizar processos e transformar tarefas complex
 
 ### 🗄️ Bancos de Dados
 
-Interesse em modelagem, organização, consultas e desenvolvimento de aplicações utilizando bancos de dados SQL.
+Interesse em bancos de dados SQL, organização de informações, consultas e integração com aplicações.
 
 </td>
 <td width="50%">
@@ -94,14 +94,28 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend & Design
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black">
+</p>
+
+### 🎨 Ferramentas de Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 </p>
 
 ### 🧰 Ferramentas & Infraestrutura
@@ -110,6 +124,7 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
 </p>
 
 
@@ -119,43 +134,58 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
 
 Estou constantemente buscando ampliar minhas habilidades e aprofundar meus conhecimentos em:
 
-* **Desenvolvimento Full Stack**
-* **Arquitetura de Software**
-* **Banco de Dados SQL**
-* **Docker**
-* **APIs REST**
-* **Segurança de Aplicações**
-* **Inteligência Artificial**
+* Desenvolvimento Full Stack
+* Arquitetura de Software
+* Banco de Dados SQL
+* Docker
+* APIs REST
+* Segurança de Aplicações
+* Inteligência Artificial
+* **Linguagem C**
 
 ---
 
 ## 📈 Objetivos
 
-* Construir **projetos completos e funcionais**
-* Aprimorar minhas habilidades em **backend e frontend**
-* Aprender boas práticas de **arquitetura e segurança**
-* Contribuir para projetos **open source**
-* Transformar ideias em **soluções reais**
-* Evoluir constantemente como **desenvolvedor de software**
-* Atuar profissionalmente com **desenvolvimento de software**
+* Construir projetos completos e funcionais
+* Aprimorar minhas habilidades em backend e frontend
+* Aprender boas práticas de arquitetura e segurança
+* Contribuir para projetos open source
+* Transformar ideias em soluções reais
+* Evoluir constantemente como desenvolvedor de software
+* Atuar profissionalmente com desenvolvimento de software
 
 ---
 
-## 📊 GitHub
+## 🌱 Próximos Passos
+
+Continuar explorando novas tecnologias e aprofundando meus conhecimentos em:
+
+**Desenvolvimento Full Stack • Arquitetura de Software • Inteligência Artificial • Automação • Segurança • Sistemas • Computação de Baixo Nível**
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorIgnacio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorIgnacio&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorIgnacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 🌱 Sempre Aprendendo
+## 🌎 Onde me encontrar
 
-Tecnologia está em constante evolução — e meu objetivo é acompanhar esse movimento através de **aprendizado contínuo, projetos práticos e experimentação**.
+<p align="center">
+  <a href="https://github.com/VitorIgnacio">
+    <img src="https://img.shields.io/badge/GitHub-VitorIgnacio-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
 
 <p align="center">
 
-**🚀 Sempre aprendendo, construindo e evoluindo.**
+<strong>Sempre aprendendo, construindo e evoluindo.</strong>
 
 </p>
