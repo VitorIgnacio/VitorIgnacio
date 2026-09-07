@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Vitor Ignácio 👋</h1>
+<h1 align="center">Hello, I'm Vitor 👋</h1>
 
 <p align="center">
   <strong>Technology Enthusiast • Developer in Progress • Music Producer</strong>
