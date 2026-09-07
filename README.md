@@ -109,15 +109,6 @@ União entre tecnologia, criatividade, dados e produção musical eletrônica at
   <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black">
 </p>
 
-### 🎨 Ferramentas de Design
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-</p>
-
 ### 🧰 Ferramentas & Infraestrutura
 
 <p>
@@ -162,15 +153,6 @@ Estou constantemente buscando ampliar minhas habilidades e aprofundar meus conhe
 Continuar explorando novas tecnologias e aprofundando meus conhecimentos em:
 
 **Desenvolvimento Full Stack • Arquitetura de Software • Inteligência Artificial • Automação • Segurança • Sistemas • Computação de Baixo Nível**
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorIgnacio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorIgnacio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
