@@ -48,50 +48,23 @@ I value **clean architecture, reliability, performance, security, scalability, t
 
 ### Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-* Backend Development
-* REST APIs
-* Database Design
-* Software Architecture
-* Data Structures & Algorithms
-* Docker & Linux
-* Cloud Computing
-* CI/CD & DevOps
-* Cybersecurity & Secure Development
-* Application Security
-* Artificial Intelligence
-* Systems Programming
-* Game Development
+* 🌐 **Backend Development**
+* 🔌 **REST APIs**
+* 🗄️ **Database Design**
+* 🏗️ **Software Architecture**
+* 🧠 **Data Structures & Algorithms**
+* 🐧 **Docker & Linux**
+* ☁️ **Cloud Computing**
+* ⚙️ **CI/CD & DevOps**
+* 🔐 **Cybersecurity & Secure Development**
+* 🛡️ **Application Security**
+* 🤖 **Artificial Intelligence**
+* ⚙️ **Systems Programming**
+* 🎮 **Game Development**
 
 ---
 
-## 📚 Currently Learning
-
-My current learning path is focused on building stronger software engineering fundamentals and applying them through practical projects.
-
-* C / C++
-* Python
-* JavaScript / TypeScript
-* Data Structures & Algorithms
-* Software Architecture
-* Backend Development
-* SQL & Database Design
-* REST APIs
-* Docker & Linux
-* Cloud Computing
-* CI/CD & DevOps
-* Cybersecurity & Secure Development
-* Application Security
-* Artificial Intelligence
-* Systems Programming
-* Game Development
-
----
-
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 🎮 GameSaveSystem
 
@@ -105,7 +78,7 @@ A C++17 game save system focused on persistence, validation, versioning, multipl
 * Versioned save format
 * Corruption validation
 * Automated tests
-* Clean separation of responsibilities
+* Separation of responsibilities
 * Playable raylib demo
 
 🔗 [View GameSaveSystem](https://github.com/VitorIgnacio/GameSaveSystem)
