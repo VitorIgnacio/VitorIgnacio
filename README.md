@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Vitor 👋</h1>
 
 <p align="center">
-  <strong>Technology Enthusiast • Developer in Progress • Music Producer</strong>
+  <strong>Aspiring Software Engineer • Technology Enthusiast • Music Producer</strong>
 </p>
 
 <p align="center">
-  Software Development • Systems Architecture • Automation • Databases • Artificial Intelligence
+  Software Engineering • Systems Architecture • Cybersecurity • Artificial Intelligence • Automation
 </p>
 
 <p align="center">
@@ -18,13 +18,15 @@
 
 ## 🚀 About Me
 
-I am currently focused on developing my skills in technology through the creation of **practical projects and solutions that simulate real-world market scenarios**.
+I am focused on developing my skills in **software engineering and computer systems** through practical projects that simulate real-world development scenarios.
 
-I am interested in **software development, systems architecture, automation, databases, and artificial intelligence**, always looking to learn new technologies and development best practices.
+My main areas of interest include **software development, systems architecture, cybersecurity, artificial intelligence, automation, databases, backend development, and low-level programming**.
 
-I enjoy turning ideas into functional projects, exploring different technologies and understanding not only how to develop an application, but also **how to structure, organize, and evolve a system**.
+I enjoy turning ideas into functional software while learning how to **design, structure, test, debug, secure, and evolve maintainable systems**.
 
-Beyond technology, I also work as an **electronic music producer**, combining creativity and analytical thinking across different areas.
+I am particularly interested in understanding not only how to build applications, but also **how the underlying systems work, how they communicate, how they can be secured, and how software can be designed for reliability, performance, and scalability**.
+
+Beyond technology, I also work as an **electronic music producer**, combining creativity, technology, and analytical thinking across different areas.
 
 ---
 
@@ -34,16 +36,33 @@ Beyond technology, I also work as an **electronic music producer**, combining cr
 <tr>
 <td width="50%">
 
-### 💻 Software Development
+### 💻 Software Engineering
 
-Creating practical projects and solutions that simulate real-world market scenarios, with a focus on developing complete and functional applications.
+Building practical applications and systems with a focus on clean code, maintainability, testing, debugging, software quality, and real-world engineering practices.
 
 </td>
 <td width="50%">
 
-### 🏗️ Systems Architecture
+### 🏗️ Software Architecture
 
-Interested in software architecture, project organization, development best practices, and building well-structured systems.
+Exploring system design, modular architecture, separation of concerns, design patterns, scalability, maintainability, and well-structured software systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Systems & Low-Level Computing
+
+Interested in C/C++, memory management, performance, computer architecture, operating system concepts, systems programming, and game development technologies.
+
+</td>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Interested in application security, secure coding, network security, authentication, vulnerability analysis, threat awareness, data protection, and cybersecurity fundamentals.
 
 </td>
 </tr>
@@ -53,14 +72,14 @@ Interested in software architecture, project organization, development best prac
 
 ### 🤖 Artificial Intelligence
 
-Exploring artificial intelligence and its applications in software development, automation, and solution building.
+Exploring AI and machine learning applications in software development, automation, data processing, intelligent tools, and developer workflows.
 
 </td>
 <td width="50%">
 
-### ⚡ Automation
+### ☁️ Cloud & DevOps
 
-Creating solutions to automate processes and transform tasks into more efficient workflows.
+Interested in cloud computing, containers, CI/CD, infrastructure automation, deployment pipelines, observability, and modern software delivery practices.
 
 </td>
 </tr>
@@ -68,16 +87,33 @@ Creating solutions to automate processes and transform tasks into more efficient
 <tr>
 <td width="50%">
 
-### 🗄️ Databases
+### ⚡ Automation
 
-Interested in SQL databases, data organization, queries, and application integration.
+Creating tools and workflows that automate repetitive processes, improve productivity, and transform manual tasks into efficient software solutions.
+
+</td>
+<td width="50%">
+
+### 🗄️ Data & Databases
+
+Learning database design, SQL, data modeling, queries, optimization, data organization, and application integration.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Backend & APIs
+
+Interested in backend development, REST APIs, distributed systems, application integration, authentication, and reliable server-side software.
 
 </td>
 <td width="50%">
 
 ### 🎵 Technology & Music
 
-Combining technology, creativity, data, and electronic music production through projects and experiments.
+Combining technology, creativity, data, and electronic music production through projects, experiments, and digital workflows.
 
 </td>
 </tr>
@@ -85,36 +121,53 @@ Combining technology, creativity, data, and electronic music production through 
 
 ---
 
-## 🛠️ Technologies of Interest
+## 🛠️ Technologies & Tools
 
 ### ⚙️ Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-### 🎨 Frontend & Design
+### 🌐 Web & Backend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black">
 </p>
 
-### 🧰 Tools & Infrastructure
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=icloud&logoColor=white">
+</p>
+
+### 🧰 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
 </p>
 
@@ -122,36 +175,45 @@ Combining technology, creativity, data, and electronic music production through 
 
 ## 🎯 Currently Learning
 
-I am constantly looking to expand my skills and deepen my knowledge in:
+I am continuously expanding my knowledge in:
 
-* Full Stack Development
+* C and C++ Programming
+* Data Structures & Algorithms
 * Software Architecture
-* SQL Databases
-* Docker
-* REST APIs
+* Backend Development
+* SQL and Database Design
+* REST API Development
+* Docker and Linux
+* Cloud Computing
+* CI/CD and DevOps
+* Cybersecurity and Secure Development
 * Application Security
 * Artificial Intelligence
-* **C Programming Language**
+* Systems Programming
+* Game Development
 
 ---
 
 ## 📈 Goals
 
-* Build complete and functional projects
-* Improve my backend and frontend skills
-* Learn architecture and security best practices
+* Build complete and production-oriented software projects
+* Strengthen my backend and systems programming skills
+* Improve software architecture and engineering practices
+* Develop stronger knowledge of algorithms and data structures
+* Build a solid foundation in cybersecurity
+* Learn secure software development practices
+* Explore cloud infrastructure and DevOps
 * Contribute to open source projects
-* Turn ideas into real-world solutions
-* Continuously evolve as a software developer
-* Work professionally in software development
+* Build tools that solve practical problems
+* Continue developing professionally as a software engineer
 
 ---
 
 ## 🌱 Next Steps
 
-Continue exploring new technologies and deepening my knowledge in:
+Continue deepening my knowledge in:
 
-**Full Stack Development • Software Architecture • Artificial Intelligence • Automation • Security • Systems • Low-Level Computing**
+**C/C++ • Backend Development • Cybersecurity • Cloud Computing • DevOps • Software Architecture • Databases • Artificial Intelligence • Automation • Systems Programming • Low-Level Computing**
 
 ---
 
@@ -166,7 +228,5 @@ Continue exploring new technologies and deepening my knowledge in:
 ---
 
 <p align="center">
-
-<strong>Always learning, building, and evolving.</strong>
-
+  <strong>Always learning, building, and evolving.</strong>
 </p>
